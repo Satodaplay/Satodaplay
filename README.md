@@ -1,153 +1,106 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&text=DANIEL%20SASTRE&fontAlign=50&fontAlignY=38&fontSize=42&desc=LINUX%20%7C%20SYSTEMS%20%7C%20RASPBERRY%20PI%20%7C%20WEB&descAlign=50&descAlignY=62&animation=fadeIn&color=0:0d1117,50:0b3d2e,100:00ff88&fontColor=ffffff&descColor=8affc1"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&text=DANIEL%20SASTRE&fontAlign=50&fontAlignY=38&fontSize=44&desc=DESARROLLO%20%7C%20SISTEMAS%20%7C%20INFRAESTRUCTURA&descAlign=50&descAlignY=62&animation=fadeIn&color=0:0d1117,50:0b3d2e,100:00ff88&fontColor=ffffff&descColor=8affc1"/>
 
-```text
-daniel@satoda:~$ whoami
-Daniel Sastre
+### Desarrollo · Sistemas · Linux · Redes · Raspberry Pi
 
-daniel@satoda:~$ cat focus.txt
-Melososoft · MeloScreen · Linux · Systems · Raspberry Pi
-```
+📍 **Mallorca, España**
 
-### `> Montando cosas, rompiéndolas y entendiendo cómo funcionan.`
+🏢 **Cofundador de [Melososoft](https://melososoft.com)**
 
-[![Melososoft](https://img.shields.io/badge/MELOSOSOFT-00ff88?style=for-the-badge\&logoColor=black)](https://melososoft.com)
-[![GitHub](https://img.shields.io/badge/@Satodaplay-161b22?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Satodaplay)
+Me gusta combinar desarrollo, sistemas e infraestructura para crear soluciones completas y simples de mantener.
 
 </div>
 
 ---
 
-## `$ about`
-
-```bash
-FOCUS=(
-  "Linux"
-  "Sistemas"
-  "Backend"
-  "Redes"
-  "Raspberry Pi"
-  "Automatización"
-)
-```
-
-Me gusta juntar desarrollo, sistemas y hardware para crear soluciones simples que funcionen de verdad.
-
----
-
-# `~/melososoft`
-
-## 🟢 Melososoft
-
-Proyecto empresarial en el que estoy centrado actualmente.
-
-```text
-Melososoft
-├── Desarrollo web
-├── Sistemas
-├── Automatización
-├── Raspberry Pi
-├── Infraestructura
-└── Productos propios
-```
-
-🌐 **https://melososoft.com**
-
----
-
-# `~/projects/meloscreen`
-
-## 🖥️ MeloScreen
-
-Sistema de cartelería digital basado en **Raspberry Pi + Linux**.
-
-```text
-                  ┌─────────────────┐
-                  │  PANEL CENTRAL  │
-                  └────────┬────────┘
-                           │
-                      WireGuard
-                           │
-          ┌────────────────┼────────────────┐
-          │                │                │
-          ▼                ▼                ▼
-     ┌─────────┐      ┌─────────┐      ┌─────────┐
-     │  Pi #1  │      │  Pi #2  │      │  Pi #N  │
-     │  Linux  │      │  Linux  │      │  Linux  │
-     └────┬────┘      └────┬────┘      └────┬────┘
-          │                │                │
-          ▼                ▼                ▼
-       Pantalla         Pantalla         Pantalla
-```
-
-```yaml
-media:
-  images: true
-  video: true
-  gifs: true
-
-system:
-  cache: true
-  fallback: true
-  logs: true
-  remote_control: true
-
-network:
-  vpn: WireGuard
-
-hardware:
-  platform: Raspberry Pi
-```
-
----
-
-# `~/stack`
+# 🚀 Tecnologías
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,raspberrypi,html,css,js,react,nodejs,python,php,java,spring,mysql,postgres,git,github,vscode&theme=dark" />
+## 💻 Desarrollo Web
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,php&theme=dark" />
+
+<br><br>
+
+## ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,php,java,spring&theme=dark" />
+
+<br><br>
+
+## 🗄️ Bases de Datos
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
+
+<br><br>
+
+## 🐧 Sistemas
+
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,raspberrypi&theme=dark" />
+
+<br><br>
+
+## 🛠️ Herramientas
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker&theme=dark" />
 
 </div>
 
-```text
-SYSTEMS      Linux · Ubuntu · Windows Server
-NETWORK      WireGuard · MikroTik
-HARDWARE     Raspberry Pi
-BACKEND      Node.js · Python · PHP · Java · Spring
-WEB          HTML · CSS · JavaScript · React
-DATABASE     MySQL · MariaDB · PostgreSQL
-```
-
 ---
 
-# `~/currently`
-
-```text
-[+] Melososoft
-[+] MeloScreen
-[+] Linux
-[+] Backend
-[+] Raspberry Pi
-[+] Redes
-[+] Automatización
-```
-
----
-
-# `~/contact`
+# 🧠 También trabajo con
 
 <div align="center">
+
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge\&logo=wordpress\&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge\&logo=woocommerce\&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge\&logo=windows\&logoColor=white)
+![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge\&logo=wireguard\&logoColor=white)
+![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge\&logo=mariadb\&logoColor=white)
+
+</div>
+
+---
+
+# 🟢 Actualmente
+
+<div align="center">
+
+### Montando **Melososoft**
+
+Desarrollo web · sistemas · automatización · infraestructura · productos propios
+
+<br>
 
 [![Melososoft](https://img.shields.io/badge/MELOSOSOFT-00ff88?style=for-the-badge\&logoColor=000000)](https://melososoft.com)
 
-[![GitHub](https://img.shields.io/badge/GITHUB-SATODAPLAY-161b22?style=for-the-badge\&logo=github\&logoColor=ffffff)](https://github.com/Satodaplay)
+</div>
 
-```text
-daniel@satoda:~$ logout
-Connection closed.
-```
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0d1117,50:0b3d2e,100:00ff88"/>
+# 📊 GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Satodaplay&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satodaplay&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9" />
 
 </div>
+
+---
+
+# 📫 Contacto
+
+<div align="center">
+
+[![Web](https://img.shields.io/badge/MELOSOSOFT-00ff88?style=for-the-badge)](https://melososoft.com)
+
+[![GitHub](https://img.shields.io/badge/GITHUB-SATODAPLAY-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Satodaplay)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0d1117,50:0b3d2e,100:00ff88"/>
